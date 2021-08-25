@@ -70,7 +70,7 @@ dependencies {
     implementation 'com.volcengine:mira'
     implementation 'com.volcengine:morpheus-mira'
 
-    //引入immersed内容
+    //引入immersed内容 update t2/dev
     debugImplementation project(":demos:immersed")
     //引入permission内容
     debugImplementation project(":demos:permission")
