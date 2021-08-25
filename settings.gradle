@@ -1,4 +1,5 @@
 // add t1/dev branch
+// update t1/source
 // 自动引入gradle/component下的脚本
 apply from: "https://lf1-ttcdn-tos.pstatp.com/obj/mars-plugin/component-script.gradle"
 
