@@ -4,6 +4,7 @@ pluginsx {
 
 buildscript {
     repositories {
+        // update t6/dev branch
         maven {
             url 'https://artifact.bytedance.com/repository/Volcengine/'
         }
