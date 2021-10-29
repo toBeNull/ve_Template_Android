@@ -10,6 +10,7 @@ buildscript {
         maven {
             url 'https://artifact.bytedance.com/repository/byteX/'
         }
+        // update t9/dev branch
         mavenCentral()
         google()
     }
