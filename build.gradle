@@ -4,6 +4,7 @@ pluginsx {
 
 buildscript {
     repositories {
+        // add t10 source
         maven {
             url 'https://artifact.bytedance.com/repository/Volcengine/'
         }
