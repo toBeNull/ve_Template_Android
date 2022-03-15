@@ -3,6 +3,7 @@
 // add test/tzj-release
 // add test/tzj-ft
 // add test/tzj-ft2
+// add test/tzj-ft3
 apply from: "https://lf1-ttcdn-tos.pstatp.com/obj/mars-plugin/component-script.gradle"
 
 include ':app'
