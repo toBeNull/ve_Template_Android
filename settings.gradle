@@ -6,6 +6,7 @@
 // test create workflow webhook
 // test update workflow webhook
 // test update workflow webhook
+// add test/tzj-ft
 apply from: "https://lf1-ttcdn-tos.pstatp.com/obj/mars-plugin/component-script.gradle"
 
 include ':app'
