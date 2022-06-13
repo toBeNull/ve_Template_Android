@@ -94,3 +94,4 @@ codequality
 # 所有build
 build
 .gradle
+.gradle
